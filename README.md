@@ -160,17 +160,6 @@ me.say_hi()
   </a>
 </div>
 
-<!-- Cool Projects Section -->
-<h2 align="center">🛸 Cool Stuff I've Built</h2>
-
-<div align="center">
-  <a href="https://github.com/DebrainStark/ai-chatbot-framework">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DebrainStark&repo=ai-chatbot-framework&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=6366F1&text_color=70a5fd&icon_color=bf91f3" style="border-radius:10px;margin:10px;box-shadow:0 4px 8px rgba(0,0,0,0.2)"/>
-  </a>
-  <a href="https://github.com/DebrainStark/nlp-toolkit">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DebrainStark&repo=nlp-toolkit&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=6366F1&text_color=70a5fd&icon_color=bf91f3" style="border-radius:10px;margin:10px;box-shadow:0 4px 8px rgba(0,0,0,0.2)"/>
-  </a>
-</div>
 
 <!-- Connect Section with Vibrant Buttons -->
 <h2 align="center">🔮 Let's Create Magic Together</h2>
