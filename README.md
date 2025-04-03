@@ -1,7 +1,39 @@
-<!-- RESPONSIVE HEADER -->
-<p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=12,21,28,16,6&textBg=false&text=DEBRAIN%20STARK&fontSize=60&fontAlignY=35&animation=fadeIn&desc=< CODE / DESIGN / CREATE >&descSize=18&descAlignY=60&fontColor=FFFFFF" alt="Debrain Stark" />
-</p>
+<!-- FIXED HEADER SOLUTION -->
+<div align="center">
+  <!-- Option 1: Simple text-based header with emoji accents -->
+  <h1>✨ DEBRAIN STARK ✨</h1>
+  <h3>< CODE / DESIGN / CREATE ></h3>
+  
+  <!-- Option 2: Image-based header using a reliable service -->
+  <!-- 
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=3000&pause=1000&color=E384FF&center=true&vCenter=true&random=false&width=500&height=100&lines=DEBRAIN+STARK;CODE+%2F+DESIGN+%2F+CREATE" alt="Debrain Stark" />
+  -->
+  
+  <!-- Option 3: Custom banner via shields.io (most reliable) -->
+  <!--
+  <img src="https://img.shields.io/badge/-%E2%9C%A8%20DEBRAIN%20STARK%20%E2%9C%A8-191825?style=for-the-badge&labelColor=191825&color=E384FF" alt="Debrain Stark" height="60" />
+  <br/>
+  <img src="https://img.shields.io/badge/-%3C%20CODE%20%2F%20DESIGN%20%2F%20CREATE%20%3E-191825?style=flat-square&color=191825" alt="Code Design Create" />
+  -->
+</div>
+
+<!-- CONNECT BADGES -->
+<div align="center">
+  <a href="https://github.com/DebrainStark">
+    <img src="https://img.shields.io/github/followers/DebrainStark?style=flat-square&logo=github&labelColor=191825&color=E384FF&logoColor=white" alt="GitHub" />
+  </a>&nbsp;
+  <a href="https://twitter.com/DebrainStark">
+    <img src="https://img.shields.io/badge/Twitter-follow-191825?style=flat-square&logo=twitter&labelColor=191825&color=E384FF&logoColor=white" alt="Twitter" />
+  </a>&nbsp;
+  <a href="https://www.linkedin.com/in/debrain-stark/">
+    <img src="https://img.shields.io/badge/LinkedIn-connect-191825?style=flat-square&logo=linkedin&labelColor=191825&color=E384FF&logoColor=white" alt="LinkedIn" />
+  </a>
+</div>
+
+<!-- ANIMATED GREETING: Sized for readability on all devices -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=E384FF&center=true&vCenter=true&random=false&width=380&lines=Hello+There!+%F0%9F%91%8B;I'm+Debrain+Stark;AI+%26+Web+Developer;Problem+Solver;Open+Source+Enthusiast" alt="Typing SVG" />
+</div>
 
 <!-- RESPONSIVE NAVIGATION BAR -->
 <div align="center">
