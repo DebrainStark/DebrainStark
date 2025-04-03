@@ -17,24 +17,6 @@
   -->
 </div>
 
-<!-- CONNECT BADGES -->
-<div align="center">
-  <a href="https://github.com/DebrainStark">
-    <img src="https://img.shields.io/github/followers/DebrainStark?style=flat-square&logo=github&labelColor=191825&color=E384FF&logoColor=white" alt="GitHub" />
-  </a>&nbsp;
-  <a href="https://twitter.com/DebrainStark">
-    <img src="https://img.shields.io/badge/Twitter-follow-191825?style=flat-square&logo=twitter&labelColor=191825&color=E384FF&logoColor=white" alt="Twitter" />
-  </a>&nbsp;
-  <a href="https://www.linkedin.com/in/debrain-stark/">
-    <img src="https://img.shields.io/badge/LinkedIn-connect-191825?style=flat-square&logo=linkedin&labelColor=191825&color=E384FF&logoColor=white" alt="LinkedIn" />
-  </a>
-</div>
-
-<!-- ANIMATED GREETING: Sized for readability on all devices -->
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=E384FF&center=true&vCenter=true&random=false&width=380&lines=Hello+There!+%F0%9F%91%8B;I'm+Debrain+Stark;AI+%26+Web+Developer;Problem+Solver;Open+Source+Enthusiast" alt="Typing SVG" />
-</div>
-
 <!-- RESPONSIVE NAVIGATION BAR -->
 <div align="center">
   <!-- Social Connect Badges: Separate and properly sized for mobile -->
