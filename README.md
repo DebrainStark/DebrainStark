@@ -1,5 +1,81 @@
 <!-- HEADER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=gradient&customColorList=12,21,28,16,6&textBg=false&text=DEBRAIN%20STARK&fontSize=80&fontAlignY=40&animation=fadeIn&desc=< CODE / DESIGN / CREATE >&descSize=20&descAlignY=68&fontColor=FFFFFF" />
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 320">
+  <!-- Gradient Background -->
+  <defs>
+    <linearGradient id="headerGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#1a2a6c" />
+      <stop offset="33%" stop-color="#b21f1f" />
+      <stop offset="67%" stop-color="#4B1248" />
+      <stop offset="100%" stop-color="#0f0c29" />
+    </linearGradient>
+    
+    <!-- Wave Pattern -->
+    <clipPath id="waveClip">
+      <path d="M0,160 
+             C150,200 300,120 450,160 
+             C600,200 750,120 900,160 
+             C1050,200 1200,120 1350,160 
+             L1350,320 L0,320 Z" />
+    </clipPath>
+    
+    <!-- Animated dots pattern -->
+    <pattern id="dotPattern" width="20" height="20" patternUnits="userSpaceOnUse">
+      <circle cx="10" cy="10" r="1.5" fill="rgba(255,255,255,0.5)">
+        <animate attributeName="opacity" values="0.3;0.7;0.3" dur="3s" repeatCount="indefinite" />
+      </circle>
+    </pattern>
+  </defs>
+  
+  <!-- Background Rectangle -->
+  <rect width="1200" height="320" fill="url(#headerGradient)" />
+  
+  <!-- Dots overlay -->
+  <rect width="1200" height="320" fill="url(#dotPattern)" opacity="0.3" />
+  
+  <!-- Wave Pattern -->
+  <g clip-path="url(#waveClip)">
+    <rect x="0" y="160" width="1200" height="160" fill="rgba(0,0,0,0.2)" />
+    <path d="M0,200 
+           C150,240 300,180 450,220 
+           C600,260 750,180 900,220 
+           C1050,260 1200,180 1350,220 
+           L1350,320 L0,320 Z" 
+          fill="rgba(255,255,255,0.1)" />
+  </g>
+  
+  <!-- Main Title with animation -->
+  <g>
+    <text x="600" y="130" font-family="Arial, sans-serif" font-weight="900" font-size="80" text-anchor="middle" fill="white" letter-spacing="2">
+      DEBRAIN STARK
+      <animate attributeName="y" values="140;130;140" dur="5s" repeatCount="indefinite" />
+    </text>
+    <!-- Subtle shadow for depth -->
+    <text x="603" y="133" font-family="Arial, sans-serif" font-weight="900" font-size="80" text-anchor="middle" fill="rgba(0,0,0,0.3)" letter-spacing="2">
+      DEBRAIN STARK
+      <animate attributeName="y" values="143;133;143" dur="5s" repeatCount="indefinite" />
+    </text>
+  </g>
+  
+  <!-- Tagline -->
+  <g>
+    <rect x="425" y="185" width="350" height="40" rx="20" fill="rgba(0,0,0,0.5)" />
+    <text x="600" y="212" font-family="Consolas, monospace" font-size="20" text-anchor="middle" fill="white" letter-spacing="1.5">
+      &lt; CODE / DESIGN / CREATE &gt;
+    </text>
+  </g>
+  
+  <!-- Decorative elements -->
+  <!-- Left side code brackets -->
+  <text x="190" y="130" font-family="Consolas, monospace" font-size="40" fill="rgba(255,255,255,0.2)" text-anchor="end">{</text>
+  <text x="170" y="170" font-family="Consolas, monospace" font-size="40" fill="rgba(255,255,255,0.2)" text-anchor="end">}</text>
+  <!-- Right side code brackets -->
+  <text x="1010" y="130" font-family="Consolas, monospace" font-size="40" fill="rgba(255,255,255,0.2)">{</text>
+  <text x="1030" y="170" font-family="Consolas, monospace" font-size="40" fill="rgba(255,255,255,0.2)">}</text>
+  
+  <!-- Decorative lines -->
+  <line x1="300" y1="270" x2="900" y2="270" stroke="rgba(255,255,255,0.3)" stroke-width="1" stroke-dasharray="5,5" />
+  <line x1="350" y1="280" x2="850" y2="280" stroke="rgba(255,255,255,0.2)" stroke-width="1" stroke-dasharray="3,3" />
+</svg>
 
 <!-- CONNECT BADGES -->
 <div align="center">
