@@ -1,21 +1,53 @@
-# Debrain Stark
+<div align="center">
 
-Full-Stack Developer & AI Engineer
+# Hey, I'm Debrain Stark 👋
 
-Building intelligent applications with modern web tech. Currently focused on AI-powered web apps, NLP/ML projects, and open-source.
+**Full-Stack Developer & AI Engineer**
 
-## Stack
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Building+intelligent+applications;AI+%2B+Web+%3D+%F0%9F%94%A5;Clean+code+enthusiast;Open+source+contributor" alt="Typing SVG" />
 
-**Languages:** JavaScript, TypeScript, Python, Java  
-**Frontend:** React, Next.js, Vue.js, Tailwind  
-**Backend:** Node.js, Express, Django, Flask  
-**AI/ML:** TensorFlow, PyTorch, OpenAI API  
-**Infra:** MongoDB, PostgreSQL, AWS, Docker
+</div>
 
-## Stats
+---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DebrainStark&show_icons=true&theme=radical)
+🔧 Building intelligent applications with modern web tech  
+🚀 Currently: AI-powered web apps, NLP/ML projects, open-source
 
-## Links
+## 🛠 Stack
 
-[GitHub](https://github.com/DebrainStark) · [LinkedIn](https://www.linkedin.com/in/debrain-stark/) · [Twitter](https://twitter.com/DebrainStark)
+<p>
+<img src="https://skillicons.dev/icons?i=js,ts,python,java,react,nextjs,vue,tailwind,nodejs,express,django,flask,tensorflow,pytorch,mongodb,postgres,aws,docker&perline=9" />
+</p>
+
+## 📌 What I Do
+
+- Design and ship production-grade web applications  
+- Integrate LLMs and ML models into real products  
+- Write clean, maintainable, well-tested code  
+- Contribute to open-source tooling
+
+## 🐍 Contributions
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DebrainStark/DebrainStark/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DebrainStark/DebrainStark/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/DebrainStark/DebrainStark/output/github-snake.svg" />
+</picture>
+
+## 📫 Connect
+
+<p>
+<a href="https://github.com/DebrainStark"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/debrain-stark/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://twitter.com/DebrainStark"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+</p>
+
+---
+
+<div align="center">
+
+💬 Open to collaborations and interesting projects.
+
+![Profile Views](https://komarev.com/ghpvc/?username=DebrainStark&color=58A6FF&style=flat-square)
+
+</div>
