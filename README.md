@@ -14,7 +14,7 @@ Building intelligent applications with modern web tech. Currently focused on AI-
 
 ## Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DebrainStark&show_icons=true&theme=default&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DebrainStark&show_icons=true&theme=radical)
 
 ## Links
 
